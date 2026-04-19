@@ -1,4 +1,4 @@
-# Day2 Python Practice
+# Day 2 Python Practice
 
 ## Programs 
 - Even number
@@ -7,5 +7,5 @@
 - Marks grading
 - Calculator
 
- # Tech used
+ # Tech Used
  -Python
